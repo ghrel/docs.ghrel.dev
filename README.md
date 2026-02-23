@@ -1,0 +1,5 @@
+# ghrel documentation
+
+## License
+
+MIT
